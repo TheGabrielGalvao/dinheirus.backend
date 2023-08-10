@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinheirusAPI", "DinheirusAPI\DinheirusAPI.csproj", "{A1D6E9C2-AF35-46D9-84FA-2D8EC0409C79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mapper", "Mapper\Mapper.csproj", "{67EF2936-FF61-49AF-873B-A6AB2AD93355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{9677B91F-C37E-4770-A3F3-95352C280D49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{185AAF0E-151E-4A47-A966-B5215D09D05A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database", "Database\Database.csproj", "{FF211B55-D085-4C68-BDDF-00186EFD3A12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{CF23DEAE-4AEA-4B8B-86AE-5A37C1092EFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Util", "Util\Util.csproj", "{574B9808-ECA6-44CD-9D16-CFE2F64E95B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1D6E9C2-AF35-46D9-84FA-2D8EC0409C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1D6E9C2-AF35-46D9-84FA-2D8EC0409C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1D6E9C2-AF35-46D9-84FA-2D8EC0409C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1D6E9C2-AF35-46D9-84FA-2D8EC0409C79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67EF2936-FF61-49AF-873B-A6AB2AD93355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67EF2936-FF61-49AF-873B-A6AB2AD93355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67EF2936-FF61-49AF-873B-A6AB2AD93355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67EF2936-FF61-49AF-873B-A6AB2AD93355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9677B91F-C37E-4770-A3F3-95352C280D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9677B91F-C37E-4770-A3F3-95352C280D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9677B91F-C37E-4770-A3F3-95352C280D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9677B91F-C37E-4770-A3F3-95352C280D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{185AAF0E-151E-4A47-A966-B5215D09D05A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{185AAF0E-151E-4A47-A966-B5215D09D05A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{185AAF0E-151E-4A47-A966-B5215D09D05A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{185AAF0E-151E-4A47-A966-B5215D09D05A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF211B55-D085-4C68-BDDF-00186EFD3A12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF211B55-D085-4C68-BDDF-00186EFD3A12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF211B55-D085-4C68-BDDF-00186EFD3A12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF211B55-D085-4C68-BDDF-00186EFD3A12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF23DEAE-4AEA-4B8B-86AE-5A37C1092EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF23DEAE-4AEA-4B8B-86AE-5A37C1092EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF23DEAE-4AEA-4B8B-86AE-5A37C1092EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF23DEAE-4AEA-4B8B-86AE-5A37C1092EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{574B9808-ECA6-44CD-9D16-CFE2F64E95B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{574B9808-ECA6-44CD-9D16-CFE2F64E95B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{574B9808-ECA6-44CD-9D16-CFE2F64E95B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{574B9808-ECA6-44CD-9D16-CFE2F64E95B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E8BEBFA-B770-448B-9E30-BB6E2571FB8D}
+	EndGlobalSection
+EndGlobal
